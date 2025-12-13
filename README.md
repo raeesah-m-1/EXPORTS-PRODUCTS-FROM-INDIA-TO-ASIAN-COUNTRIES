@@ -1,4 +1,6 @@
 The "Exports to Asian Countries" dataset provides a comprehensive view of trade exports from an unspecified country (presumably India given the source) to various Asian countries. This dataset covers the periodical data of exports in terms of value in both USD and INR and also in terms of quantity. Each record provides the date, target country, type of product (both in terms of HS code and the commodity name), the value of the commodity, and the quantity of the commodity being exported.
+https://indiadataportal.com/p/export-trade-statistics/r/mci-tradestat_export_lfy-cn-mn-asi
+
 <img width="827" height="398" alt="image" src="https://github.com/user-attachments/assets/0fba049a-6a91-474f-87c6-defa76075389" />
 
 Which country has highest income produced to India.
